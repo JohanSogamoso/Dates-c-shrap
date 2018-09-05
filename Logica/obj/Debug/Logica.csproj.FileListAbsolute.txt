@@ -1,0 +1,11 @@
+E:\curso de progamacion\base de datos c#\Datos\Logica\bin\Debug\Logica.dll
+E:\curso de progamacion\base de datos c#\Datos\Logica\bin\Debug\Logica.pdb
+E:\curso de progamacion\base de datos c#\Datos\Logica\bin\Debug\Datos.dll
+E:\curso de progamacion\base de datos c#\Datos\Logica\bin\Debug\MySql.Data.dll
+E:\curso de progamacion\base de datos c#\Datos\Logica\bin\Debug\Google.Protobuf.dll
+E:\curso de progamacion\base de datos c#\Datos\Logica\bin\Debug\Datos.pdb
+E:\curso de progamacion\base de datos c#\Datos\Logica\bin\Debug\MySql.Data.xml
+E:\curso de progamacion\base de datos c#\Datos\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\curso de progamacion\base de datos c#\Datos\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+E:\curso de progamacion\base de datos c#\Datos\Logica\obj\Debug\Logica.dll
+E:\curso de progamacion\base de datos c#\Datos\Logica\obj\Debug\Logica.pdb
